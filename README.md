@@ -3,8 +3,8 @@
 ### Graduando Sistemas de Informação na UFPA Campos Cametá 📚
 <div style: display="inline_block">
   
-  ![Heverson Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=Heveson5&show_icons=true&theme=dracula&locale=pt-br)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heveson5&hide_progress=true&theme=dracula&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+  ![Heverson Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=heversonlima&show_icons=true&theme=dracula&locale=pt-br)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heversonlima&hide_progress=true&theme=dracula&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
