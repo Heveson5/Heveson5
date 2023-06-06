@@ -1,10 +1,10 @@
 ## Olá, eu me chamo Heverson Lima 👋
 
-### Graduando Sistemas de Informação na UFPA Campos Cametá 📚
+### Graduando Sistemas de Informação na UFPA - Cametá 📚
 <div style: display="inline_block">
   
-  ![Heverson Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=heversonlima&show_icons=true&theme=dracula&locale=pt-br)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heversonlima&hide_progress=true&theme=dracula&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heversonlima&show_icons=true&theme=radical&locale=pt-br)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heversonlima&hide_progress=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
